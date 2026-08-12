@@ -7,16 +7,16 @@
 
 "To grow as a community in mental, moral, political, and financial areas."
 
-## Active Projects 
+### Active Projects 
 1. MeetHearts
 2. Muakhat 
 
 
-## Upcoming Projects 
+### Upcoming Projects 
 1. Political Support 
 
 
-## Under Consideration Projects 
+### Under Consideration Projects 
 1. Gifts of Love/Rhm (spread positive energy) (Plants, Sports entertainments, Healthy Foods)
 2. Business ==Support== 
 
