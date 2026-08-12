@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/brotherhood-dashboard/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/brotherhood-dashboard/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 
